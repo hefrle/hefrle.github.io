@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hefrle.github.io/sitemap/sitemap.txt
